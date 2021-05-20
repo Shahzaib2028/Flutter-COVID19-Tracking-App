@@ -11,7 +11,7 @@ This is the home page where you can get all the information about world wide sit
 
 <img src="covid19_/images/home.png" width = 300 height = 600>
 
-This is the search tab where you are informed with some precautions and a search option to serach for a specific country.
+This is the search tab where you are informed with some precautions and a search option to search for a specific country.
 
 <img src="covid19_/images/search.png" width = 300 height = 600>
 
